@@ -636,6 +636,8 @@ export const rows = [
       name: "Kakai Kitan",
       image:
         "https://github.com/Adornadowilliam2/ado-music/blob/images/eve/kakai%20kitan.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/eve/kakkai%20kitan.mp3?raw=true",
     },
     {
       name: "Bokurano",
