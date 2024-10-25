@@ -552,6 +552,20 @@ export const rows = [
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/bon%20jovi/its%20my%20life.mp3?raw=true",
     },
+    {
+      name: "Always",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/bon%20jovi/always.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/bon%20jovi/always.mp3?raw=true",
+    },
+    {
+      name: "Bed of roses",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/bon%20jovi/bed%20of%20roses.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/bon%20jovi/bed%20of%20rosess.mp3?raw=true",
+    },
   ],
   [
     {
@@ -594,6 +608,55 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/queen%20elizabeth%20bloodflame/numb.jpeg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen%20elizabeth%20bloodflame/numb.mp3?raw=true",
+    },
+    {
+      name: "Someone you loved",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/queen%20elizabeth%20bloodflame/elizabth%20bloodflam.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen%20elizabeth%20bloodflame/someone%20you%20loved.mp3?raw=true",
+    },
+    {
+      name: "Im still standing",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/queen%20elizabeth%20bloodflame/elizabth%20bloodflam.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen%20elizabeth%20bloodflame/im%20sill%20standing.mp3?raw=true",
+    },
+    {
+      name: "Skyfall",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/queen%20elizabeth%20bloodflame/elizabth%20bloodflam.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen%20elizabeth%20bloodflame/skyfall.mp3?raw=true",
+    },
+  ],
+  [
+    {
+      name: "Kakai Kitan",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/eve/kakai%20kitan.jpeg?raw=true",
+    },
+    {
+      name: "Bokurano",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/eve/bokurano.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/eve/bokurano.mp3?raw=true",
+    },
+    {
+      name: "Fight song",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/eve/fight%20song.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/eve/fight%20song.mp3?raw=true",
+    },
+    {
+      name: "Insomia",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/eve/imsomia.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/eve/insomia.mp3?raw=true",
     },
   ],
 ];
