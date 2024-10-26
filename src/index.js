@@ -661,6 +661,22 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/eve/insomia.mp3?raw=true",
     },
   ],
+  [
+    {
+      name: "Wonder of you",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/elvis/wonder%20of%20you.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/elvis/the%20wonder%20of%20you.mp3?raw=true",
+    },
+    {
+      name: "Can't help fall in love",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/elvis/cant%20help%20falling%20in%20love.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/elvis/cant%20help%20falling%20in%20love.mp3?raw=true",
+    },
+  ],
 ];
 
 let i = 1;
