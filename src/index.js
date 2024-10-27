@@ -297,6 +297,13 @@ export const rows = [
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/susei/bibibida.mp3?raw=true",
     },
+    {
+      name: "Gyakko",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/susei/susei.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/susei/gyakko.mp3",
+    },
   ],
   [
     {
@@ -321,6 +328,13 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/creepy%20nuts/mashle.jpg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/creepy%20nuts/mashle.mp3?raw=true",
+    },
+    {
+      name: "Daten",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/creepy%20nuts/daten.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/creepy%20nuts/daten.mp3?raw=true",
     },
   ],
   [
@@ -399,6 +413,13 @@ export const rows = [
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/mrs%20green%20apple/inferno.mp3?raw=true",
     },
+    {
+      name: "i'm invincible",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/mrs%20green%20apple/iminvincible.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/mrs%20green%20apple/im%20invincible.mp3?raw=true",
+    },
   ],
   [
     {
@@ -414,6 +435,20 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/brunomars/apt.jpg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/brunomars/apt.mp3?raw=true",
+    },
+    {
+      name: "24k magic",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/brunomars/24kmagic.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/brunomars/24k%20magic.mp3?raw=true",
+    },
+    {
+      name: "lazy song",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/brunomars/lazy%20song.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/brunomars/lazy%20song.mp3?raw=true",
     },
   ],
   [
@@ -481,6 +516,13 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/initial%20d/saveme.jpg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/initial%20d/save%20me.mp3?raw=true",
+    },
+    {
+      name: "Takumi",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/initial%20d/takumi.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/initial%20d/takumi.mp3?raw=true",
     },
   ],
   [
