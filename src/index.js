@@ -302,7 +302,7 @@ export const rows = [
       image:
         "https://github.com/Adornadowilliam2/ado-music/blob/images/susei/susei.jpeg?raw=true",
       track:
-        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/susei/gyakko.mp3",
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/susei/gyakko.mp3?raw=true",
     },
   ],
   [
@@ -719,6 +719,43 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/elvis/cant%20help%20falling%20in%20love.mp3?raw=true",
     },
   ],
+  [
+    {
+      name: "Animals",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/anima.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/animals.mp3?raw=true",
+    },
+    {
+      name: "Payphone",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/payphone.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/payphone.mp3?raw=true",
+    },
+    {
+      name: "Sugar",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/sugar.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/sugar.mp3?raw=true",
+    },
+    {
+      name: "Don't wanna know",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/dont%20wann%20know.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/don't%20wanna%20know.mp3?raw=true",
+    },
+    {
+      name: "one more night",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/one%20more%20nighy.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/one%20more%20night.mp3?raw=true",
+    },
+  ],
 ];
 
 let i = 1;
@@ -730,3 +767,5 @@ rows.forEach((item) => {
   });
 });
 console.log(rows);
+
+// last row here
