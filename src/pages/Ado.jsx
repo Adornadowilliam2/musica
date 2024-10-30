@@ -82,6 +82,7 @@ export default function Ado({ rows, Link }) {
             ))
           ) : (
             <>
+              {console.log(rows.flat())}
               {rows[0].map((item) => (
                 <div className="track" key={item.id}>
                   <div className="track-card">

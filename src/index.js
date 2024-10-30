@@ -585,6 +585,13 @@ export const rows = [
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/worship%20song/10000reasons.mp3?raw=true",
     },
+    {
+      name: "God is Good",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/worship%20song/godisgood.jpeg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/worship%20song/godisgood.mp3?raw=true",
+    },
   ],
   [
     {
@@ -754,6 +761,15 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/maroon%205/one%20more%20nighy.jpeg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/maroon%205/one%20more%20night.mp3?raw=true",
+    },
+  ],
+  [
+    {
+      name: "Killer Queen",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/queen/killerqueen.gif?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen/killerqueen.mp3?raw=true",
     },
   ],
 ];
