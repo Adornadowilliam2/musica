@@ -341,9 +341,30 @@ export const rows = [
     {
       name: "Curtain Call",
       image:
-        "https://github.com/Adornadowilliam2/ado-music/blob/images/yuuri/curtaincall.jpeg?raw=true",
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/hero%20academia/curtaincall.jpeg?raw=true",
       track:
-        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/yuuri/curtaincall.mp3?raw=true",
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/hero%20academia/curtaincall.mp3?raw=true",
+    },
+    {
+      name: "Polaris",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/hero%20academia/eri.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/hero%20academia/polaris.mp3?raw=true",
+    },
+    {
+      name: "The Day",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/hero%20academia/polaris.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/hero%20academia/the%20day.mp3?raw=true",
+    },
+    {
+      name: "Peace Sign",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/hero%20academia/peace%20sign.png?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/hero%20academia/peace%20sign.mp3?raw=true",
     },
   ],
   [
