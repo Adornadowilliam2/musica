@@ -38,7 +38,7 @@ export const rows = [
     {
       name: "New Genesis",
       image:
-        "https://github.com/Adornadowilliam2/ado-music/blob/images/ado/newgenesis.png?raw=true",
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/ado/newgenesis.jpg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/ado/newgenesis.mp3?raw=true",
     },
@@ -371,6 +371,13 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/images/ali/wildside.jpeg?raw=true",
       track:
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/ali/wildside.mp3?raw=true",
+    },
+    {
+      name: "Lost in paradise",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/ali/lostinparadise.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/ali/lost%20in%20paradise.mp3?raw=true",
     },
   ],
   [
@@ -780,8 +787,6 @@ rows.forEach((item) => {
     character.musicId = i;
     i++;
     character.id = index + 1;
+    // console.table(character);
   });
 });
-console.log(rows);
-
-// last row here
