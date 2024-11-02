@@ -800,6 +800,15 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/queen/killerqueen.mp3?raw=true",
     },
   ],
+  [
+    {
+      name: "Undertale",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/megalovania/undertale.png?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/megalovania/undertale.mp3?raw=true",
+    },
+  ],
 ];
 
 let i = 1;
