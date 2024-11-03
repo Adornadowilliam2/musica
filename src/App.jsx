@@ -12,7 +12,7 @@ import Twice from "./pages/Twice.jsx";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/ado-music",
+      path: "/musica",
       element: <Ado rows={rows} Link={Link} />,
     },
     {
