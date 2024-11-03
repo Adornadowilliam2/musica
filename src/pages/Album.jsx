@@ -16,7 +16,7 @@ export default function Album({ Link }) {
         }}
       >
         <div style={{ flex: "1 0 30%", margin: "10px" }}>
-          <Link to="/ado-music">
+          <Link to="/musica">
             <img
               src="https://github.com/Adornadowilliam2/images/blob/main/ado.jpeg?raw=true"
               alt="Ado music"
