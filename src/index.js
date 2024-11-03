@@ -809,6 +809,36 @@ export const rows = [
         "https://github.com/Adornadowilliam2/ado-music/blob/mp3/megalovania/undertale.mp3?raw=true",
     },
   ],
+  [
+    {
+      name: "Ichizu",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/king%20gnu/ichizu.png?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/king%20gnu/ichizu.mp3?raw=true",
+    },
+    {
+      name: "Hakujitsu",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/king%20gnu/hakujitsu.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/king%20gnu/hakujitsu.mp3?raw=true",
+    },
+    {
+      name: "Sakayume",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/king%20gnu/sakayume.jpg?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/king%20gnu/sakayume.mp3?raw=true",
+    },
+    {
+      name: "Special Z",
+      image:
+        "https://github.com/Adornadowilliam2/ado-music/blob/images/king%20gnu/specialz.png?raw=true",
+      track:
+        "https://github.com/Adornadowilliam2/ado-music/blob/mp3/king%20gnu/special%20z.mp3?raw=true",
+    },
+  ],
 ];
 
 let i = 1;
